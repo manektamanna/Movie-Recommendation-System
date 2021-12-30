@@ -1,0 +1,51 @@
+Spectator_Id,Age,Name,Language,Gender
+1,11,Alan,English,Male
+2,12,Ernest,English,Male
+3,16,Douglas,English,Male
+4,18,Bradley,English,Male
+5,22,Patrick,English,Male
+6,25,Byron,English,Male
+7,28,Frank,English,Male
+8,32,Earl,English,Male
+9,38,Brett,English,Male
+10,46,Samuel,English,Male
+11,56,Vernon,English,Trans Male
+12,33,Tyrone,English,Trans Male
+13,19,Clarence,English,Trans Male
+14,13,Ellen,English,Female
+15,17,Corine,English,Female
+16,19,Margie,English,Female
+17,24,Emmie,English,Female
+18,28,Pinkie,English,Female
+19,32,Myrtie,English,Female
+20,36,Jeanette,English,Female
+21,43,Barbara,English,Female
+22,49,Glennie,English,Female
+23,54,Liza,English,Female
+24,34,Hettie,English,Trans Female
+25,21,Fannie,English,Trans Female
+26,14,Ramdin Verma,Hindi,Male
+27,17,Barjraj Patil,Hindi,Male
+28,22,Sharat Chandran,Hindi,Male
+29,27,Shiv Prakash,Hindi,Male
+30,29,Khadak Singh,Hindi,Male
+31,32,Maansingh Aswal,Hindi,Male
+32,35,Punit Khandelwal,Hindi,Male
+33,39,Kausal Kumar,Hindi,Male
+34,44,Dharam Singh,Hindi,Male
+35,47,Vinit Katariya,Hindi,Male
+36,56,Yash Mittal,Hindi,Trans Male
+37,30,Rijul Aggarwal,Hindi,Trans Male
+38,16,Shelender Yadav,Hindi,Trans Male
+39,16,Shakshi Sagar,Hindi,Female
+40,22,Kanika Kathuria,Hindi,Female
+41,27,Deeya Kumari,Hindi,Female
+42,31,Anjali Juneja,Hindi,Female
+43,38,Aanamika Misra,Hindi,Female
+44,42,Gurdeep Kaur,Hindi,Female
+45,48,Pooja Kashyap,Hindi,Female
+46,51,Meena Kumari,Hindi,Female
+47,53,Pooja Jayshwal,Hindi,Female
+48,24,Priya Saxena,Hindi,Female
+49,21,Nilam Devi,Hindi,Trans Female
+50,38,Swati Thakur,Hindi,Trans Female

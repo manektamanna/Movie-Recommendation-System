@@ -1,0 +1,51 @@
+Actor_Id,Age,Name,Language,Gender
+1,28,Harrison Ford,English,Trans Male
+2,34,Ryan Reynolds,English,Trans Male
+3,33,Bruce Willis,English,Trans Male
+4,61,Leonardo DiCaprio,English,Male
+5,53,Johnny Depp,English,Male
+6,36,Tom Cruise,English,Male
+7,29,Brad Pitt,English,Male
+8,44,Robert Downey Jr.,English,Male
+9,41,Hugh Jackman,English,Male
+10,30,Chrisitan Bale,English,Male
+11,28,Will Smith,English,Male
+12,29,Bradley Cooper,English,Male
+13,54,Morgan Freeman,English,Male
+14,52,Matt Damon,English,Male
+15,37,Amy Adams,English,Trans Female
+16,45,Halle Berry,English,Trans Female
+17,39,Emma Stone,English,Female
+18,35,Scarlett Johansson,English,Female
+19,42,Natalie Portman,English,Female
+20,46,Sandra Bullock,English,Female
+21,32,Nicole Kidman,English,Female
+22,27,Jennifer Aniston,English,Female
+23,41,Emma Watson,English,Female
+24,28,Megan Fox,English,Female
+25,33,Julia Roberts,English,Female
+26,36,Tiger Shroff,Hindi,Trans Male
+27,39,Govinda,Hindi,Trans Male
+28,44,Jimmy Shergill,Hindi,Trans Male
+29,31,Shah Rukh Khan,Hindi,Male
+30,29,Akshay Kumar,Hindi,Male
+31,36,Salman Khan,Hindi,Male
+32,46,Hrithik Roshan,Hindi,Male
+33,45,Aamir Khan,Hindi,Male
+34,41,Ranbir Kapoor,Hindi,Male
+35,33,Ranveer Singh,Hindi,Male
+36,37,Shahid Kapoor,Hindi,Male
+37,30,Ajay Devgn,Hindi,Male
+38,38,Rishi Kapoor,Hindi,Male
+39,39,Sanjay Dutt,Hindi,Male
+40,47,Neha Dhupia,Hindi,Trans Female
+41,32,Mallika Sherawat,Hindi,Trans Female
+42,31,Kajol,Hindi,Female
+43,33,Kareena Kapoor,Hindi,Female
+44,31,Aishwarya Rai,Hindi,Female
+45,34,Tapsee Pannu,Hindi,Female
+46,29,Anushka Sharma,Hindi,Female
+47,30,Genelia D'Souza,Hindi,Female
+48,40,Deepika Padukone,Hindi,Female
+49,45,Alia Bhatt,Hindi,Female
+50,49,Vaani Kapoor,Hindi,Female
